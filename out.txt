@@ -1,0 +1,263 @@
+single line comment
+
+ Integer declaration 
+
+variable_b is already declared
+
+valid declaration
+
+ Float declaration 
+
+valid declaration
+single line comment
+inc: 9
+
+value of expression: 9
+single line comment
+
+value of expression: 13
+
+value of expression: 55
+single line comment
+
+Value 10 assigned to variable variable_a
+
+value of expression: 10
+
+Value 10 assigned to variable variable_b
+
+value of expression: 10
+
+Value 10 assigned to variable variable_f
+
+value of expression: 10
+single line comment
+
+division by zero	
+value of expression: 0
+single line comment
+
+AND value = 1 & 2 = 0 
+
+value of expression: 0
+
+OR value = 1 & 2 = 3 
+
+value of expression: 3
+
+XOR value = 1 & 2 = 3 
+
+value of expression: 3
+single line comment
+
+FACTORIAL declaration
+FACTORIAL of 10 is : 3628800
+
+
+
+FACTORIAL declaration
+FACTORIAL of 5 is : 120
+
+
+
+FACTORIAL declaration
+FACTORIAL of 6 is : 720
+
+
+single line comment
+Odd Even Number declaration 
+Number is :5 is -> Odd
+
+
+Odd Even Number declaration 
+Number : 6 is -> Even
+
+
+Odd Even Number declaration 
+Number is :9 is -> Odd
+
+
+single line comment
+Leap Year declaration 
+2000 is a Leap Year
+
+Leap Year declaration 
+2023 is not a Leap Year
+
+Leap Year declaration 
+2024 is a Leap Year
+
+single line comment
+Palindrome Number declaration 
+12321 is a palindrome number 
+
+
+Palindrome Number declaration 
+123 isn't a palindrome number.
+
+
+single line comment
+Power declaration
+Power is 8
+
+Power declaration
+Power is 27
+
+single line comment
+Prime Number Detection
+1 is neither prime nor composite.
+
+
+Prime Number Detection
+13 is prime.
+
+
+Prime Number Detection
+24 is not prime.
+
+
+Prime Number Detection
+17 is prime.
+
+
+single line comment
+MAXIMUM Number Detection
+20 is maximum
+
+MAXIMUM Number Detection
+Both are equal
+
+MAXIMUM Number Detection
+20 is maximum
+
+single line comment
+MINIMUM Number Detection
+10 is minimum
+
+MINIMUM Number Detection
+Both are equal
+
+MINIMUM Number Detection
+12 is minimum
+
+single line comment
+Entering GCD function
+G.C.D of 10 and 20 is = 10
+
+Entering GCD function
+G.C.D of 10 and 10 is = 10
+
+Entering GCD function
+G.C.D of 12 and 20 is = 4
+
+single line comment
+
+LCM Detection
+LCM of 10 and 20 is = 20
+
+
+
+LCM Detection
+LCM of 10 and 10 is = 10
+
+
+
+LCM Detection
+LCM of 12 and 20 is = 60
+
+
+single line comment
+Value of sin(30) is : 0.500001
+Value of sin(30) is : 0.500001
+Value of sin(60) is : 0.866027
+
+Value of cos(30) is : 0.866025
+
+Value of cos(30) is : 0.866025
+
+Value of cos(60) is : 0.499998
+
+Value of tan(30) is : 0.577352
+
+Value of tan(30) is : 0.577352
+
+Value of tan(60) is : 1.732061
+single line comment
+
+Value of Natural Log(30) is : 3.401197
+
+Value of Natural Log(30) is : 3.401197
+
+Value of Natural Log(60) is : 4.094345
+single line comment
+
+SqureRoot of value 30 : 5.477226 
+
+SqureRoot of value 30 : 5.477226 
+
+SqureRoot of value 60 : 7.745967 
+single line comment
+
+ Integer declaration 
+ARRAY Declaration
+Size of the ARRAY = 10
+single line comment
+
+value of expression: 14
+
+condition value zero in IF block
+
+value of expression: 4
+single line comment
+
+We are  in IF and the value is: 4
+
+value of expression: 19
+
+value of expression: 8
+
+We are in ELSE and the value is : 8
+single line comment
+
+value of expression: 20
+
+value of expression: 5
+
+We are in ELSE and the value is : 5
+
+value of expression: 17
+
+We are in IF: 5
+single line comment
+
+For Loop :
+
+Step : 2 and value of expression : 6
+
+Step : 3 and value of expression : 6
+
+Step : 4 and value of expression : 6
+
+Step : 5 and value of expression : 6
+single line comment
+While LOOP:
+step: 0 value of expression :6 
+step: 1 value of expression :6 
+step: 2 value of expression :6 
+step: 3 value of expression :6 
+step: 4 value of expression :6 
+
+While LOOP:
+step: 0 value of expression :18 
+step: 1 value of expression :18 
+step: 2 value of expression :18 
+step: 3 value of expression :18 
+step: 4 value of expression :18 
+
+single line comment
+
+Result in default Value is :  9
+
+SWITCH case.
+multiple_line_comment
+Successful compilation

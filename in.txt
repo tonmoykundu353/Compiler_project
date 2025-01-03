@@ -1,0 +1,161 @@
+mfun main fop fcp
+sop
+    // Variable declarations
+    in variable_a $ variable_b $ variable_c $ variable_b #
+    flt variable_f #
+    
+    // Increment operation
+    inc 8 inc #
+
+    // Arithmetic operations
+    1 addition 12 division 4 multiplication 4 #
+    50 subtraction 15 addition 8 division 2 multiplication 5 #
+    
+
+    // Variable assignments
+    variable_a @ 10 #
+    variable_b @ variable_a #
+    variable_f @ 10 #
+    
+
+    // Division operation
+    3 division 0 #
+
+    // Bitwise operations
+    1 AND 2 #
+    1 OR 2 #
+    1 XOR 2 #
+
+    // Factorial calculations
+    FACTORIAL fop variable_a fcp #
+    FACTORIAL fop 5 fcp #
+    FACTORIAL fop 2 addition 2 multiplication 2 fcp #
+
+    // Odd-Even checks
+    ODDEVEN fop 5 fcp #
+    ODDEVEN fop 6 fcp #
+    ODDEVEN fop 6 addition 3 fcp #
+
+    // Leap year checks
+    LEAPYEAR fop 2000 fcp #
+    LEAPYEAR fop 2023 fcp #
+    LEAPYEAR fop 2000 addition 2 multiplication 12 fcp #
+
+    // Palindrome checks
+    PALINDROME fop 12321 fcp #
+    PALINDROME fop 123 fcp #
+
+    // Power calculations
+    POWER fop 2 $ 3 fcp #
+    POWER fop 1 addition 2 $ 4 subtraction 1 fcp #
+
+    // Prime number checks
+    PRIME fop 1 fcp #
+    PRIME fop 13 fcp #
+    PRIME fop 24 fcp #
+    PRIME fop 10 addition 7 fcp #
+
+    // Maximum value checks
+    MAX fop 10 $ 20 fcp #
+    MAX fop 10 $ 10 fcp #
+    MAX fop 10 addition 2 $ 10 multiplication 2 fcp #
+
+    // Minimum value checks
+    MIN fop 10 $ 20 fcp #
+    MIN fop 10 $ 10 fcp #
+    MIN fop 10 addition 2 $ 10 multiplication 2 fcp #
+
+    // GCD calculations
+    GCD fop 10 $ 20 fcp #
+    GCD fop 10 $ 10 fcp #
+    GCD fop 10 addition 2 $ 10 multiplication 2 fcp #
+
+    // LCM calculations
+    LCM fop 10 $ 20 fcp #
+    LCM fop 10 $ 10 fcp #
+    LCM fop 10 addition 2 $ 10 multiplication 2 fcp #
+
+    // Trigonometric functions
+    SIN cop 30 ccp #
+    SIN cop 2 multiplication 15 ccp #
+    SIN cop 12 addition 3 multiplication 16 ccp #
+
+    COS cop 30 ccp #
+    COS cop 2 multiplication 15 ccp #
+    COS cop 12 addition 3 multiplication 16 ccp #
+
+    TAN cop 30 ccp #
+    TAN cop 2 multiplication 15 ccp #
+    TAN cop 12 addition 3 multiplication 16 ccp #
+
+    // Natural logarithm
+    NL cop 30 ccp #
+    NL cop 2 multiplication 15 ccp #
+    NL cop 12 addition 3 multiplication 16 ccp #
+
+    // Square root
+    SQRT cop 30 ccp #
+    SQRT cop 2 multiplication 15 ccp #
+    SQRT cop 12 addition 3 multiplication 16 ccp #
+
+    // Array declaration
+    MY_ARRAY in variable_d fop 10 fcp #
+
+    // If statements
+    iff fop 5 addition 3 subtraction 8 fcp
+    sop
+        12 addition 2 #
+    scp
+        
+    iff fop 5 addition 8 fcp
+    sop
+        2 exponential 2 #
+    scp
+
+    // If-else statements
+    iff fop 7 lrt 5 fcp
+    sop
+        7 addition 6 multiplication 2 #
+    scp
+    or
+    sop
+        6 addition 8 division 4 #
+    scp
+
+    // Nested if-else
+    iff fop 7 grt 5 fcp
+    sop
+        iff fop 7 lrt 5 fcp
+        sop
+            7 addition 7 addition 6 #
+        scp
+        or
+        sop
+            3 addition 8 division 4 #
+        scp
+    scp
+    or
+    sop
+        6 multiplication 3 subtraction 1 #
+    scp
+        
+    // For loop
+    flp fop 2 : 6 fcp sop 4 addition 2 scp
+
+    // While loops
+    wlp fop 0 lrt 5 fcp sop 4 addition 2 scp
+    wlp fop 6 grt 1 fcp sop 6 multiplication 3 scp
+
+    // Switch case
+    incident fop 4 fcp 
+    sop 
+        check 1 : 4 addition 2 # 
+        check 2 : 3 addition 2 # 
+        nop : 3 exponential 2 # 
+    scp     
+
+    /cmnt/
+    Good Job Tonmoy Kundu
+your roll is 2007077
+    /cmnt/
+scp
